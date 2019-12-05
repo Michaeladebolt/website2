@@ -1,0 +1,28 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 10
+
+[[main]]
+  name = "Publications"
+  url = "https://scholar.google.com/citations?user=gwpLYqIAAAAJ&hl=en"
+  weight = 20
+
+[[main]]
+  name = "Lab website"
+  url = "https://oakeslab.ucdavis.edu"
+  weight = 30
+  
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[main]]
+  name = "CV"
+  url = "https://ucdavis.box.com/s/vviaiu1ybrea78xyn7vmns1az6j5w8d8"
+  weight = 40
